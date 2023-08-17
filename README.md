@@ -8,3 +8,4 @@ docker
 6. php artisan migrate
 7. php artisan key:generate
 8. php artisan migrate
+9. php artisan horizon:publish
