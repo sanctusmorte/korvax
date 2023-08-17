@@ -6,3 +6,5 @@ docker
 4. docker exec -it backend bash
 5. composer install
 6. php artisan migrate
+7. php artisan key:generate
+8. php artisan migrate
